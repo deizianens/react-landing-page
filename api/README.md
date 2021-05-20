@@ -1,3 +1,3 @@
-# Strapi application
+# Landing Page
 
-A quick description of your strapi application
+Landing Page made using Strapi, GraphQL, React and Typescript.
